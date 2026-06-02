@@ -1,1 +1,1 @@
-print("Hello, CS50 python ")
+print("hello cs50 python")
